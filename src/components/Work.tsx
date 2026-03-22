@@ -17,7 +17,7 @@ const projects: Project[] = [
     category: "Multi-Agent System",
     tools: "AWS Bedrock, Claude 3, Step Functions",
     image: "/images/Job Fit Analyzer.png",
-    link: "http://job-analyzer-frontend-596432516213.s3-website-us-east-1.amazonaws.com/",
+    link: "https://drltdia7c4vej.cloudfront.net/",
   },
   {
     title: "Coding Assistant",
